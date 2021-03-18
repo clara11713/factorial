@@ -6,7 +6,7 @@
 package factorial;
 
 /**
- *
+ *hola
  * @author jmllamasg
  */
 public class Factorial {
